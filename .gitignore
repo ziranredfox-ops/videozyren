@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+tunnel_url.txt
+kaggle_worker_url.txt
+_tmp_*.py
+.env
+.env.local
